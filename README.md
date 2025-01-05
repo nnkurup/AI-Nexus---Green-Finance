@@ -12,3 +12,7 @@ Key features of the platform include:
   5. Scenario analysis: Allowing users to explore different investment strategies and their potential impacts.
 
 This project addresses the challenge financial institutions face in identifying high-impact sustainable projects.
+
+// To install dependencies, run "npm install"
+// To run code, run "npm run dev"
+
